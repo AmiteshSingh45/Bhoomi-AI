@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="min-h-screen flex items-center justify-center">
-      <h1 className="text-4xl font-bold">Welcome to AiBhoomi</h1>
-    </main>
+    <div>
+        Krishi Sahayak 
+    </div>
   );
 }
